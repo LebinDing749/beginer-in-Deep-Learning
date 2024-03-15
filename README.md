@@ -1,2 +1,2 @@
-# beginer-in-Deep-Learning
+# beginner-in-Deep-Learning
 1. Deep Learning, include cifar10, Minist, Resnet, Lora, LSTM and ...
